@@ -4,3 +4,8 @@ public class Test {
     String c="abc";
     String d="merge in to current branch";
 }
+class Tested {
+    String a="kalyan";
+    String b="srikanth";
+    String c="abc";
+}
