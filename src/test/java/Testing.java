@@ -6,5 +6,6 @@ public class Testing {
 
     //rebase
     int i=5;
+    int j=10;
 
 }
