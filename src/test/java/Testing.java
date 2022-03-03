@@ -8,4 +8,7 @@ public class Testing {
     int i=5;
     int j=10;
 
+
+    String d="friends";
+
 }
